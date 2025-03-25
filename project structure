@@ -1,0 +1,7 @@
+/aws-ec2-boto3-automation  
+├── main.py                  # Boto3 script (EC2 creation)  
+├── config.yml               # YAML config (instance specs)  
+├── requirements.txt         # Dependencies (boto3, pyyaml)  
+├── .gitignore               # Exclude secrets/__pycache__  
+├── README.md                # Documentation  - AWS 
+└── /images                  # Screenshot 
